@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c0818aa92deeeac65db6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "H2a",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "H2a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H2a-Debug-78714d6240af1649578d.json",
+					"name" : "H2a",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lahti/OneDrive - University of Oulu and Oamk/Documents/Olio/H2/H2a/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "C:/Users/lahti/OneDrive - University of Oulu and Oamk/Documents/Olio/H2/H2a"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
